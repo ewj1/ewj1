@@ -1,7 +1,4 @@
 # Hi, I'm Ezra 
-*Software Engineer*
-
----
 
 ### About Me
 I'm a recent CS grad from Williams College.
@@ -12,13 +9,13 @@ Outside of coding, my interests include complex systems, cognitive science, cook
 ---
 
 ###  Tech Skills
-!Javascript
-!Python
-!Java
-!React
-!Node
-!SQL
-!C
+Javascript//
+Python//
+Java//
+React//
+Node//
+SQL//
+C//
 
 ---
 
