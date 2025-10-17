@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Ezra 
+*Software Engineer*
 
-<!--
-**ewj1/ewj1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### About Me
+I'm a recent CS grad from Williams College.
+I have full-stack development experience, and I'm looking for SWE work!
+Outside of coding, my interests include complex systems, cognitive science, cooking/fermentation/mycology, jazz saxophone, and non-market approaches to equitable housing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+###  Tech Skills
+!Javascript
+!Python
+!Java
+!React
+!Node
+!SQL
+!C
+
+---
+
+### GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ewj1&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ewj1&layout=compact&theme=tokyonight)
+
+---
+
+### Reading: 
+*Gödel, Escher, Bach* – Douglas Hofstadter
+
