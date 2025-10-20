@@ -15,6 +15,7 @@ Node
 
 ### Projects
 Check out these hosted projects:
+[Game of Life](https://game-of-life-ezrajoffehancock.vercel.app/)
 
 ### Reading: 
 *Gödel, Escher, Bach* – Douglas Hofstadter
