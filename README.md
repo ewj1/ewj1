@@ -15,7 +15,7 @@ Node
 
 ### Projects
 Check out these hosted projects:
-[Crossword Editor] (https://crossword-editor-app.onrender.com/)
+[Crossword Editor](https://crossword-editor-app.onrender.com/)  
 [Game of Life](https://game-of-life-ezrajoffehancock.vercel.app/)
 
 ### Reading: 
