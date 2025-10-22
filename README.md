@@ -14,7 +14,7 @@ React
 Node  
 
 ### Projects
-Check out these hosted projects:
+Check out these hosted projects:  
 [Crossword Editor](https://crossword-editor-app.onrender.com/)  
 [Game of Life](https://game-of-life-ezrajoffehancock.vercel.app/)
 
